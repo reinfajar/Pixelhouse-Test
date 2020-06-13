@@ -11,4 +11,4 @@ node sort.js <asc/desc> || example ***node sort.js asc*** => this is to get resu
 
 for vue
 
-cd vue && npm run serve then open at localhost:8080
+***cd vue && npm install && npm run serve then open at localhost:8080***
